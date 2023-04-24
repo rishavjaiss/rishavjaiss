@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **Deloitte USI - Studios**
 
-- 🌱 I’m currently learning **LWC and Backend Technologies**
+- 🌱 I’m currently learning **Frontend and Backend Technologies**
 
 - 👯 I’m looking to collaborate on **React JS, Next JS, React Native and anything Javascript**
 
